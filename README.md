@@ -1,6 +1,8 @@
 This repository has a goal of spreading the word about real **BIG** projects built with PHP/Laravel. 
 
-I will share what I find online and on social media, you can contribute with links.
+I will share what I find online and on social media, you can contribute with links, just put it in a Pull Request, and I will process how exactly to put it into the repo.
+
+I'm still not sure about the **structure** of this repository. For now, it's all in one README. Depending on the amount of links/posts, I may re-group it somehow or even create a separate website with showcase.
 
 ---
 
