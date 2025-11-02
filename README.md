@@ -32,11 +32,26 @@ I'm still not sure about the **structure** of this repository. For now, it's all
 
 ---
 
+[Alam Lam on X](https://x.com/extralam/status/1983915915369705815):
+
+> ~80M req/mo now on laravel app - which powers one of our client project. The public front end by Livewire, app by 
+React Native, the backend by Filament. Our server using Azure App Services with Redis and MySQL.
+
+![](./images/alan-lam-80m-mo-laravel.jpeg)
+
+---
+
+[Jonty Behr on X](https://x.com/jontybehr/status/1811316493906317636):
+
+> We're handling ~230m requests per month (~88 rps) on Laravel across 3 linked sites. Original codebase was written in Laravel 4, but has been upgraded along the way, and now on L11. Monoliths, fully tested, strong typehints.
+
+---
+
 ## More In-Depth Stories/Articles
 
 [Jack Ellis from Fathom Analytics: Does Laravel Scale?](https://usefathom.com/blog/does-laravel-scale)
 
-Awesome long article, with a conclusion that Laravel is a fantastic choice for 99.99994%+ of web applications. For large projects, Laravel will NOT be the main bottleneck.
+Awesome long article based on the story of Fathom who run Laravel on infrastructure that can handle over 157 billion requests per month (*data from 2022*). For large projects, Laravel will NOT be the main bottleneck.
 
 ---
 
@@ -67,6 +82,18 @@ Business of Laravel Podcast interview with Matt Stauffer from Tighten, they disc
 [Galahad Creative: From Zero to 35M: The struggles of scaling Laravel with Octane](https://www.galahadsixteen.com/blog/from-zero-to-35m-the-struggles-of-scaling-laravel-with-octane)
 
 The remarkable success of Laravel Octane in our project can be largely credited to its foundation on Swoole, a high-performance, coroutine-based PHP framework. 
+
+---
+
+[Behind the scenes of Lemon Squeezy with Gilbert Pellegrom](https://www.lemonsqueezy.com/blog/lemonhead-gilbert-pellegrom)
+
+Lemon Squeezy payment provider (*later acquired by Stripe*) was built entirely using Laravel and Vue. PHP gets a lot of hate but the language has come a long way in the last ten years and Laravel really makes it a joy to work with.
+
+---
+
+[Arvid Kahl: One Year of Podscan.fm: Reflecting on Tech & Business Decisions](https://thebootstrappedfounder.com/one-year-of-podscan-reflecting-on-tech-business-decisions/)
+
+A podcast episode where Arvid says that the biggest choice he made at the beginning of Podscan was to build this product with the Laravel framework. As of April 2025, Podscan is somewhere north of five to six terabytes in raw storage.
 
 ---
 
