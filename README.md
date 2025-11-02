@@ -47,7 +47,7 @@ React Native, the backend by Filament. Our server using Azure App Services with 
 
 ---
 
-[Al Kafi on LinkedIn](https://www.linkedin.com/in/al-kafi-sohag/):
+[Al Kafi on LinkedIn](https://www.linkedin.com/posts/al-kafi-sohag_from-breaking-in-regular-usage-to-scaling-activity-7337585766505639936-PM-j/?utm_source=share):
 
 > Our high-performance web application, built with Laravel 12 backend and Blade + Tailwind CSS frontend, handles 109M+ requests monthly.
 
