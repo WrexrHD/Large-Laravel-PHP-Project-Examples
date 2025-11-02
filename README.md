@@ -1,6 +1,6 @@
 This repository has a goal of spreading the word about real **BIG** projects built with PHP/Laravel. 
 
-I will share what I find online and on social media, you can contribute with links, just put it in a Pull Request, and I will process how exactly to put it into the repo.
+I will share what I find online and on social media, you can contribute with links, just put it in a Pull Request, and I will think how exactly to put it into the repo.
 
 I'm still not sure about the **structure** of this repository. For now, it's all in one README. Depending on the amount of links/posts, I may re-group it somehow or even create a separate website with showcase.
 
@@ -40,6 +40,38 @@ I'm still not sure about the **structure** of this repository. For now, it's all
 
 ---
 
-[Mathias Hansen: How Geocodio keeps 300M addresses up to date]()
+[Mathias Hansen: How Geocodio keeps 300M addresses up to date](https://www.geocod.io/code-and-coordinates/2025-01-13-how-geocodio-keeps-300M-addresses-up-to-date/)
 
 > The entire platform is built on Laravel and uses Laravel Nova. They also make heavy use of queueing using Laravel Horizon.
+
+---
+
+[Mateus Guimarães: Scaling Laravel to 100M+ jobs and 30,000 requests/sec](https://mateusguimaraes.com/posts/scaling-laravel)
+
+How they scaled to over a hundred million jobs and peaks of 30,000 requests/minute a timespan of only twelve hours, using nothing but Laravel, MySQL and Redis.
+
+---
+
+[Redberry: From 0 to 150K Visitors in 4 Hours: Scaling a Real-Time Engagement Platform](https://laravel.com/blog/from-0-to-150k-visitors-in-4-hours-scaling-a-real-time-engagement-platform)
+
+When 150K users flooded a web platform in just 4 hours, with no ramp-up, no downtime, and real-time interaction required, Redberry made it possible using Laravel Cloud, Filament, PostgreSQL, and Pusher. A story from official Laravel Blog.
+
+---
+
+[Matthew Davis: The Power Behind Mumsnet, the UK’s No. 1 Platform for Parents](https://tighten.com/insights/bol-ep7-matthew-davis-mumsnet/)
+
+Business of Laravel Podcast interview with Matt Stauffer from Tighten, they discuss Mumsnet's full-scale transition to Laravel, unpacking the challenges and victories of their ground-up rewrite.
+
+---
+
+[Galahad Creative: From Zero to 35M: The struggles of scaling Laravel with Octane](https://www.galahadsixteen.com/blog/from-zero-to-35m-the-struggles-of-scaling-laravel-with-octane)
+
+The remarkable success of Laravel Octane in our project can be largely credited to its foundation on Swoole, a high-performance, coroutine-based PHP framework. 
+
+---
+
+## Lists of Projects Built with Laravel/PHP
+
+- [Tighten: Built with Laravel: A curated catalog of organizations using Laravel](https://builtwithlaravel.com/)
+- [Laravel Daily: 10 Large Open-Source Projects Built with Laravel](https://laraveldaily.com/post/large-laravel-open-source-projects)
+- [KrishaWeb: Best Use Cases for Custom Laravel Web Development In 2025](https://www.krishaweb.com/blog/best-laravel-web-development-use-cases-to-explore/)
