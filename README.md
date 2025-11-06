@@ -7,7 +7,7 @@ The goal is to share stories by **real** people, with **real** names, with traff
 ## Table of Contents
 
 - [In-Depth Stories/Articles](#in-depth-storiesarticles) (8 articles)
-- [Social Media Posts with Numbers](#social-media-posts-with-numbers) (9 posts)
+- [Social Media Posts with Numbers](#social-media-posts-with-numbers) (10 posts)
 - [Lists of Projects Built with Laravel/PHP](#lists-of-projects-built-with-laravelphp) (6 lists)
 - [Smaller/Hobby Projects Built with Laravel/PHP](#smaller-ish-projects-built-with-laravelphp) (10 stories)
 
@@ -128,11 +128,17 @@ React Native, the backend by Filament. Our server using Azure App Services with 
 
 ---
 
-[Lwin Maung on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391090113990082560?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7391090113990082560%2C7391107474365284352%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287391107474365284352%2Curn%3Ali%3Aactivity%3A7391090113990082560%29)
+[Lwin Maung on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391090113990082560?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7391090113990082560%2C7391107474365284352%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287391107474365284352%2Curn%3Ali%3Aactivity%3A7391090113990082560%29):
 
 > Tiny PHP project ([source on GitHub](https://github.com/lwinmaungmaung/election2020)) but hit 2M/day traffic for Myanmar Election 2020.
 
 ![](./images/myanmar-election2020-analytics.png)
+
+---
+
+[Dan Brown on Reddit](https://www.reddit.com/r/laravel/comments/1opahh7/comment/nnab371/):
+
+> My Laravel-based open-source project BookStack is used across 7k sites. I'm now receiving a healthy income from just donations, sponsors and support packages!
 
 ---
 
