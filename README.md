@@ -7,7 +7,7 @@ The goal is to share stories by **real** people, with **real** names, with traff
 ## Table of Contents
 
 - [In-Depth Stories/Articles](#in-depth-storiesarticles) (8 articles)
-- [Social Media Posts with Numbers](#social-media-posts-with-numbers) (15 posts)
+- [Social Media Posts with Numbers](#social-media-posts-with-numbers) (16 posts)
 - [Lists of Projects Built with Laravel/PHP](#lists-of-projects-built-with-laravelphp) (8 lists)
 - [Smaller/Hobby Projects Built with Laravel/PHP](#smaller-ish-projects-built-with-laravelphp) (10 stories)
 
@@ -173,6 +173,12 @@ React Native, the backend by Filament. Our server using Azure App Services with 
 [Octavio Herrera on X](https://x.com/tavioto/status/1986462758661947693):
 
 > [AddressHub](https://address-hub.com/) is built with Laravel and we are processing millions of requests per month.
+
+---
+
+[Sergio on X](https://x.com/planetasergio/status/1986774584968786017):
+
+> [Medicloud.com.ar](https://medicloud.com.ar/) is a highly successful medical platform in Argentina. I am one of the co-founders. And I’m proud to share that the backend and the API are entirely built with PHP and Laravel.
 
 ---
 
